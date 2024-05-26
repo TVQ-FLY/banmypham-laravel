@@ -1,0 +1,3 @@
+Login admin: ../admin-auth/login
+	admin@gmail.com
+	12345678
