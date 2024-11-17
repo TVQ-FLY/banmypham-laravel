@@ -1,3 +1,9 @@
 Login admin: ../admin-auth/login
 	admin@gmail.com
 	12345678
+
+Login user: ../account/login
+	thanhlam@gmail.com
+	12345678
+	nthanhtrung@gmail.com
+	12345678
